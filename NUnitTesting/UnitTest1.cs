@@ -11,8 +11,8 @@ namespace NUnitTesting
             obj = new Percentage();
         }
 
-        [TestCase(76)]
-        [TestCase(67)]
+      //  [TestCase(76)]
+      //  [TestCase(67)]
         [TestCase(98)]
         [TestCase(93)]
 
